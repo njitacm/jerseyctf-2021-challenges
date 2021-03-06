@@ -9,6 +9,12 @@
 
 
 ## Medium Challenges
+| Challenge Name  | Description | Hint
+|:-- | :-- | :---
+| | | 
 
 
-## Hard Challenges
+## Hard Challenges\
+| Challenge Name  | Description | Hint
+|:-- | :-- | :---
+| | | 

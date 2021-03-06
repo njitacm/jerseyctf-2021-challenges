@@ -32,8 +32,9 @@ def main(challenge_name):
     # Creates `./<ChallengeName>/challenge`
     os.mkdir(f"{challenge_name}/challenge")
 
-    # Creates `./<ChallengeName>/solution`
-    os.mkdir(f"{challenge_name}/solution")
+    # Might not need this
+    # # Creates `./<ChallengeName>/solution`
+    # os.mkdir(f"{challenge_name}/solution")
 
     # Creates `./<ChallengeName>/README.md`
     makeFile(f"{README}")
