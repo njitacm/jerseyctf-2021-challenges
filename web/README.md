@@ -11,7 +11,7 @@
 |:-- | :-- | :---
 | | | 
 
-## Hard Challenges\
+## Hard Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | | | 
