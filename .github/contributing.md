@@ -39,4 +39,4 @@
 
 ---
 ## Last Resort
-Contact `AndresOrbe#9714` in 
+Contact `AndresOrbe#9714` on Discord if clarification or help is needed 
