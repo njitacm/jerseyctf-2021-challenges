@@ -19,6 +19,8 @@ Development and Creation of CTF Challenges for JerseyCTF 2021
 
 * Once the minimum amount of challenges in all the categories can be met, then more challenges can be written in anything!
 
+* **Hard** Challenges should not have hints
+
 * **NOTE** : This challenges should be beginner friendly but more advanced people might come to compete 
     * _Should not have to be ;)_
 ---

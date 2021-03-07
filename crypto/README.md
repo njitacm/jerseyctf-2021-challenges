@@ -13,6 +13,6 @@
 
 
 ## Hard Challenges
-| Challenge Name  | Description | Hint
-|:-- | :-- | :---
-| | | 
+| Challenge Name  | Description 
+|:-- | :-- 
+| | 

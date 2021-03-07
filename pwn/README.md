@@ -5,16 +5,16 @@
 |:-- |:-- |:--
 | [simple_buffo1](simple_buffo1) | 
 | [simple_buffo2](simple_bufio2) | 
-| [endianness_flip](end_flip) |
+| [end_flip](end_flip) | 
 
 
 ## Medium Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-| | | 
+| [sim-worker](sim-worker)| Just w | Surely, there was be a quicker way to get the flag.  <-- Modify
 
 
 ## Hard Challenges
-| Challenge Name  | Description | Hint
-|:-- | :-- | :---
-| | | 
+| Challenge Name  | Description 
+|:-- | :-- 
+| [after-free](after-free) |   <-- Modify
