@@ -4,7 +4,6 @@
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [open-creds](open-creds)| Sometimes Creds just be out in the open | I wish I was able to see previous commits to my repo 
-| [Pa(inbin)stebin](painbin)| Twitter is an interesting place, to put content | Use bs4 on python or use the Twitter API
 | [hidden-in-plain-sight-1](hidden-in-plain-sight-1) | Find the flag in these latin texts  | The flag always starts with jctf 
 
 
