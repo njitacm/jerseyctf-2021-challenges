@@ -61,10 +61,6 @@ Development and Creation of CTF Challenges for JerseyCTF 2021
 * **Note** that be having access to this repository, this disqualifies you from competing in jctf 2021
 
 ---
-## Resources
-*
-
----
 ## Links
 * [Legacy Challenge Docs](https://docs.google.com/document/d/1ZqllnoSpuWNTdQ5A7UB5BpBB1ul6l4051KitS-etNeg/edit?usp=sharing)
     * Switching over to Github Projects Tab for most recent updates
