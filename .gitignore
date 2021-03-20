@@ -2,3 +2,4 @@ misc/painbin/challenge/creds.py
 __pycache__
 .vscode
 *.db
+.sour
