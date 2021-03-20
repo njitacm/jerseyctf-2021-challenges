@@ -10,10 +10,11 @@
 ## Medium Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-| [XORED-Message](XORED-Message) |  | 
+| [XORED-Message](XORED-Message) | There is some encrypted message, it apparently has something to do with logic. | °° -> 0
+|  |  | 
 
 
 ## Hard Challenges
 | Challenge Name  | Description 
 |:-- | :-- 
-| | 
+| |  
