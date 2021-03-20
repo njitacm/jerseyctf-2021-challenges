@@ -6,13 +6,14 @@
 | [Intro PWN](intro-pwn) | We all have to start somewhere! Connect to the server at `IP ADDR` | There is something about connecting and `nc`
 | [simple_buffo1](simple_buffo1) | 
 | [simple_buffo2](simple_bufio2) | 
-| [end_flip](end_flip) | 
+| [revPop](revPop) | Reverse a program to get the flag | Maybe doing some static analysis would help
 
 
 ## Medium Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [sim-worker](sim-worker)| Just w | Surely, there was be a quicker way to get the flag.  <-- Modify
+| [end_flip](end_flip) | |
 
 
 ## Hard Challenges

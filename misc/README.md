@@ -5,6 +5,7 @@
 |:-- | :-- | :---
 | [open-creds](open-creds)| Sometimes Creds just be out in the open | I wish I was able to see previous commits to my repo 
 | [hidden-in-plain-sight-1](hidden-in-plain-sight-1) | Find the flag in these latin texts  | The flag always starts with jctf 
+| | | 
 
 
 ## Medium Challenges
