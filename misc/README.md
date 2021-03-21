@@ -16,5 +16,6 @@
 
 ## Hard Challenges
 | Challenge Name  | Description 
-|:-- | :-- 
+|:-- | :--
+| ['Got_OSINT?']('Got_OSINT?')| Sometimes Google searches lead to numbers | Did you put the answer in the flag format jctf{INSERT NUMBER}? 
 | | 
