@@ -11,10 +11,12 @@
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [XORED-Message](XORED-Message) | There is some encrypted message, it apparently has something to do with logic. | °° -> 0
+| [Transformation](Transformation)| Do you have an affinity for math?  Then you’ll easily crack this cipher! | a = b / 3
+| [HideInside](HideInside)| Don't see any flag flying in this city pic, must be hidden behind the scenes |  Which do you prefer first – hex or base?  
 |  |  | 
 
 
 ## Hard Challenges
 | Challenge Name  | Description 
 |:-- | :-- 
-| |  
+| |[BlaiseDeCVE](BlaiseDeCVE) | You'll need this CVE-2014-6271 to find the key! | no hint 
