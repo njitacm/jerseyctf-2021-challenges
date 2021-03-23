@@ -11,7 +11,7 @@
 ## Medium Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-| | | 
+| [closed-creds](closed-creds) | Using the registry files provided, what is the password of the Administrator user? | Research dumping hashes from SAM.
 
 ## Hard Challenges
 | Challenge Name  | Description 
