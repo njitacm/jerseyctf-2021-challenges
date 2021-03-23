@@ -11,6 +11,8 @@ mmls /mnt/ewf/ewf1  (use this to find the offset)
 
 mount /mnt/ewf/ewf1 /mnt/forensics -t ntfs-3g -o ro,loop,show_sys_files,streams_interface=windows,offset=$((128*512))
 
+cd /mnt/forensics
+
 cd '$RECYCLE.BIN/'
 
 cat '$RQSTOMN.txt'

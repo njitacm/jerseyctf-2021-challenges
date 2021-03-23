@@ -18,4 +18,4 @@
 ## Hard Challenges
 | Challenge Name  | Description 
 |:-- | :-- 
-| |  
+| [alternate-reality](alternate-reality) | Find the flag in this forensic disk image.  
