@@ -1,6 +1,6 @@
 # volatile-memory-1
 
-Using the RAM image [https://drive.google.com/drive/folders/1a7NZ5g3TR1Pn6hxsf68AsSwP-ItqaHl_](found here), what is the PID (process ID) of notepad.exe?
+Using the RAM image found here <https://drive.google.com/drive/folders/1a7NZ5g3TR1Pn6hxsf68AsSwP-ItqaHl_>, what is the PID (process ID) of notepad.exe?
 
 
 ## Solution
