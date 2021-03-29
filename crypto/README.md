@@ -17,6 +17,7 @@
 
 
 ## Hard Challenges
-| Challenge Name  | Description 
-|:-- | :-- 
-| |[BlaiseDeCVE](BlaiseDeCVE) | You'll need this CVE-2014-6271 to find the key! | no hint 
+| Challenge Name  | Description | Hint
+|:-- | :-- | :---
+| [BlaiseDeCVE](BlaiseDeCVE) | You'll need this CVE-2014-6271 to find the key! | no hint 
+| [StegAESaurus](StegAESaurus) | Put all the key pieces together to crack this ciphertext | no hint
