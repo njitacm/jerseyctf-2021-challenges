@@ -2,4 +2,4 @@
 Obligatory inspect element flag for beginners.
 
 ## Solution
-Openn inspect element
+Open inspect element
