@@ -1,17 +1,29 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(int argc, char* argv[]) {
-    
-    char try[20];
-    
-    printf("Crackme Simple1\n");
-    printf("Enter password: ");
-    scanf("%s", try);
-    if(strcmp(try, "p@ssw0rd") == 0) {
-        printf("flag{simpl3_compl3t3_$$}\n");
-    } else {
-        printf("Invalid Password\n");
+
+int main(void)
+{
+    char buff[46];
+    int pass = 0;
+
+    printf("Enter the password:");
+    gets(buff);
+    printf("\n");
+    if(strcmp(buff, "yeetOReeNo"))
+    {
+        printf ("Wrong Password\n");
+    }
+    else
+    {
+        printf ("Correct Password\n");
+        pass = 1;
+    }
+
+    if(pass)
+    {
+        system("cat flag.txt");
+        printf("\n");
     }
 
     return 0;
