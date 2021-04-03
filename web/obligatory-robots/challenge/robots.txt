@@ -1,0 +1,5 @@
+User-agent: * 
+Disallow:
+Sitemap: jerseyctf.com
+
+jctf{site-crawling-are-we?}
