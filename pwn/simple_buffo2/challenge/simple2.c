@@ -1,7 +1,53 @@
 #include <stdio.h>
 
 void vuln() {
-    system("cat flag.txt");
+    char smol_compress[31] = {'8', 'c', '_', 'b', '}', '{', 's', 'd', 'w', '9', 'p', 'l', 'm', '+', 'a', 'g', 'f', 'v', 'r', '-', '3', '5', '1', 'u', 't', '7', '2', 'e', 'o', '4', 'j'};
+    printf("%c", smol_compress[30]);
+    printf("%c", smol_compress[1]);
+    printf("%c", smol_compress[24]);
+    printf("%c", smol_compress[16]);
+    printf("%c", smol_compress[5]);
+    printf("%c", smol_compress[1]);
+    printf("%c", smol_compress[12]);
+    printf("%c", smol_compress[7]);
+    printf("%c", smol_compress[19]);
+    printf("%c", smol_compress[14]);
+    printf("%c", smol_compress[18]);
+    printf("%c", smol_compress[15]);
+    printf("%c", smol_compress[6]);
+    printf("%c", smol_compress[13]);
+    printf("%c", smol_compress[23]);
+    printf("%c", smol_compress[6]);
+    printf("%c", smol_compress[27]);
+    printf("%c", smol_compress[18]);
+    printf("%c", smol_compress[22]);
+    printf("%c", smol_compress[10]);
+    printf("%c", smol_compress[23]);
+    printf("%c", smol_compress[24]);
+    printf("%c", smol_compress[29]);
+    printf("%c", smol_compress[9]);
+    printf("%c", smol_compress[0]);
+    printf("%c", smol_compress[22]);
+    printf("%c", smol_compress[20]);
+    printf("%c", smol_compress[0]);
+    printf("%c", smol_compress[25]);
+    printf("%c", smol_compress[20]);
+    printf("%c", smol_compress[26]);
+    printf("%c", smol_compress[21]);
+    printf("%c", smol_compress[2]);
+    printf("%c", smol_compress[3]);
+    printf("%c", smol_compress[23]);
+    printf("%c", smol_compress[16]);
+    printf("%c", smol_compress[16]);
+    printf("%c", smol_compress[28]);
+    printf("%c", smol_compress[17]);
+    printf("%c", smol_compress[27]);
+    printf("%c", smol_compress[18]);
+    printf("%c", smol_compress[16]);
+    printf("%c", smol_compress[11]);
+    printf("%c", smol_compress[28]);
+    printf("%c", smol_compress[8]);
+    printf("%c", smol_compress[4]);
 }
 
 

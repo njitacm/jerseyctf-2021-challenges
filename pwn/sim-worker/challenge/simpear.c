@@ -34,11 +34,31 @@ int main(void) {
     }
     else if (choice == 3) {
       if (dogecoin > flagcost) {
-        FILE *fp;
-        char buff[255];
-        fp = fopen("flag.txt", "r");
-        fscanf(fp, "%s", buff);
-        printf("Your flag is: %s\n", buff);
+        char smol_compress[19] = {'r', '{', 'p', 'l', 't', 'w', 'o', 'e', 'f', 'y', 'H', 'O', 's', 'T', 'v', '}', 'c', 'j', 'a'};
+        printf("%c", smol_compress[17]);
+        printf("%c", smol_compress[16]);
+        printf("%c", smol_compress[4]);
+        printf("%c", smol_compress[8]);
+        printf("%c", smol_compress[1]);
+        printf("%c", smol_compress[13]);
+        printf("%c", smol_compress[9]);
+        printf("%c", smol_compress[2]);
+        printf("%c", smol_compress[7]);
+        printf("%c", smol_compress[12]);
+        printf("%c", smol_compress[10]);
+        printf("%c", smol_compress[18]);
+        printf("%c", smol_compress[14]);
+        printf("%c", smol_compress[7]);
+        printf("%c", smol_compress[11]);
+        printf("%c", smol_compress[14]);
+        printf("%c", smol_compress[7]);
+        printf("%c", smol_compress[0]);
+        printf("%c", smol_compress[8]);
+        printf("%c", smol_compress[3]);
+        printf("%c", smol_compress[6]);
+        printf("%c", smol_compress[5]);
+        printf("%c", smol_compress[12]);
+        printf("%c", smol_compress[15]);
         break;
       } 
       else {
