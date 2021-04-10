@@ -1,14 +1,14 @@
 import sqlite3
-from CONSTANTS import DB_NAME
+import sys
 
-def conn(user, passwd): 
-    with sqlite3.connect(f"{DB_NAME}") as conn:
-        cur = conn.cursor()
 
-        user = input("Enter username: ")
-        passwd = input("Enter password: ")
+with sqlite3.connect("vuln.db") as conn:
+    cur = conn.cursor()
 
-        output = cur.execute(f"SELECT passwd FROM users WHERE name = '{user}' AND passwd = '{passwd}'")
+    user = sys.argv[1]
+    passwd = sys.argv[2]
 
-        for value in output:
-            print(f"{value}")
+    output = cur.execute(f"SELECT passwd FROM users WHERE name = '{user}' AND passwd = '{passwd}'")
+
+    for value in output:
+        print(f"{value}")

@@ -11,6 +11,5 @@ cur = conn.cursor()
 # --> Check for cur.executemany
 
 cur.execute('INSERT INTO users (ID, NAME, PASSWD) Values (1, "admin", "jctf{sql_1nj3ction_4re-l3th4l}")')
-
 conn.commit()
 conn.close()

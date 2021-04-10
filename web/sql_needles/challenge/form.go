@@ -3,12 +3,11 @@ package main
 // https://gowebexamples.com/forms/
 
 import (
+	"fmt"
+	"log"
 	"net/http"
-	"os"
 	"os/exec"
-	"path/filepath"
 	"strconv"
-	"strings"
 	"text/template"
 )
 
@@ -17,12 +16,23 @@ type LoginInfo struct {
 	Password string
 }
 
-func getAbsLocation() string {
-	file, _ := exec.LookPath(os.Args[0])
-	path, _ := filepath.Abs(file)
-	index := strings.LastIndex(path, string(os.PathSeparator))
-	ret := path[:index]
-	return ret
+type dbRet struct {
+	Success bool
+	flag    string
+}
+
+func vulnerablePYDB(logInfo LoginInfo) string {
+	cmd := exec.Command("python3", "connDB.py", logInfo.Username, logInfo.Password)
+
+	out, err := cmd.Output()
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	s := string(out)
+
+	return s
 }
 
 func webserve(port string) {
@@ -39,21 +49,40 @@ func webserve(port string) {
 			Password: r.FormValue("password"),
 		}
 
-		_ = data // run python script for this
-		// fmt.Printf("%s and %s", data.Username, data.Password)
+		retStr := vulnerablePYDB(data)
+		fmt.Printf("%s", retStr)
 
-		tmpl.Execute(w, struct{ Success bool }{true})
+		if retStr != "" {
+			retData := dbRet{
+				Success: true,
+				flag:    retStr,
+			}
+
+			tmpl.Execute(w, retData)
+		}
+
+		tmpl.Execute(w, nil)
+		// _ = data // run python script for this
+		// fmt.Printf("Username: %s\n", data.Username)
+		// fmt.Printf("Password: %s\n", data.Password)
+		// fmt.Printf("%s and %s", data.Username, data.Password)
 
 	})
 
-	http.ListenAndServe(":9990", nil)
+	http.ListenAndServe(":"+port, nil)
 }
 
 func main() {
 
+	// Ensuring that the following code works
+	// trial := LoginInfo{"yes", "' or 1=1;--"}
+	// fmt.Println(vulnerablePYDB(trial))
+
 	const PORT = 9990
 
 	port := strconv.Itoa(PORT)
+
+	fmt.Println("Running on port:", port)
 
 	webserve(port)
 

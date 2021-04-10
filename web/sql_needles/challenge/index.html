@@ -13,10 +13,9 @@
 <body style="font-family: 'Montserrat', sans-serif;">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
 
-  {{if .Success}}
-  <h1>Thanks dips</h1>
-  {{else}}
-
+{{if .Success}}
+  <h1>{{.flag}}</h1>
+{{else}}
 
     <div class="container">
       <div class="row justify-content-evenly text-center">
@@ -29,12 +28,12 @@
        
         <!-- Get Input from User-->
         <div style="padding-top: 2rem;">
-          <form>
+          <form method="POST">
             <div class="form-group spacer">
-              <input class="col" type="text" name="username" id="username" placeholder="Username" required="">
+              <input class="col" type="text" name="username" placeholder="Username" required="">
             </div>
             <div class="form-group spacer">
-              <input class="col" type="password" name="pass" id="password" placeholder="Password" required="">
+              <input class="col" type="text" name="password" placeholder="Password" required="">
             </div>
             <div class="form-group spacer">
               <input type="submit" class="btn btn-outline-danger submit" value="Log in">
@@ -44,6 +43,6 @@
       </div>
 
     </div>    
-  {{end}}
 </body>
 </html>
+{{end}}
