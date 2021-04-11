@@ -17,15 +17,12 @@ Development and Creation of CTF Challenges for JerseyCTF 2021
 | [pwn](pwn) | Reversing, binary exploitation 
 | [web](web) | All types of web exploitation 
 
-
 ###  Resources / Write-ups / Sponker Flags
 | Directory <!-- --> | Description<!-- This could have been a challenge -->
 | :--: | :--: 
 | [sponker](sponker) | Sponsor and Speaker Flags
 | [writeups](writeups) | Writeups from participants
 | [resources](resources) | Resources from Tech Talks (i.e. Records, Literature, etc)
-
-
 
 ---
 ## Interested in Contributing?
