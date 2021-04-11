@@ -4,7 +4,7 @@
 ---
 ## How to Contribute
 
-### Quick-steps Contributing
+### Creating a challenge
 * **Be sure your flag looks like `jctf{your_text_here}`**
 
 1. Go to Directory of category that you wish to create a challenge for 
@@ -33,10 +33,11 @@
     | [pwn/README.md](pwn/README.md)
     | [web/README.md](web/README.md)
 
-## Contributing
-* Idk I write this later
+### Creating a writeup for a challenge
+
+
 
 
 ---
 ## Last Resort
-Contact `AndresOrbe#9714` on Discord if clarification or help is needed 
+Contact `AndersOrve#9714` on Discord if clarification or help is needed 
