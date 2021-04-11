@@ -1,9 +1,9 @@
 """
-filename: makeChallenge.py
-Purpose: To automate the creation of challenges on the repository.
-Usage: python3 makeChallenge.py <ChallengeName>
+filename: createWriteup.py
+Purpose: (Standardizaiton) To automate the process of creating a write-up
+Usage: python3 createWriteup.py <Name/Handle>
 Return(s): 
-    ./<ChallengeName>
+    ./<Name/Handle>
     ./<ChallengeName>/challenge
     ./<ChallengeName>/solution
     ./<ChallengeName>/README.md
@@ -14,9 +14,9 @@ import sys
 import os
 
 def usage():
-    print(f"Be sure to have a Challenge Name!")
+    print(f"Be sure to have your name / handle!")
     print(f"Usage:")
-    print(f"python3 makeChallenge.py <ChallengeName>")
+    print(f"python3 createWriteup.py <Name/Handle>")
 
 
 # Quick Function to make a file
