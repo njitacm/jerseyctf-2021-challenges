@@ -1,7 +1,7 @@
 # Contributing
 
 * Your one stop spot for Contributing! 
- 
+
 ---
 ## How to Contribute
 
@@ -34,9 +34,10 @@
     | [pwn/README.md](pwn/README.md)
     | [web/README.md](web/README.md)
 
+---
 ### Creating a writeup for a challenge
 * *Helping both Beginners and More Seasoned Github Users*
----
+
 #### For Github Beginners
 1. **Fork** github repository 
     ![](https://assets.digitalocean.com/articles/eng_python/PullRequest/GitHub_Repo.gif)
@@ -81,7 +82,7 @@
     * _Note_: Will probably only check if the proper steps have been taken to create the writeup
 
 
-* DM / PM any of the organizers to help with the writeup process
+## DM / PM any of the organizers to help with the writeup process
 
 ---
 ## Resources
