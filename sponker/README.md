@@ -20,3 +20,10 @@
 | NJCCIC | **Connect with NJCCIC:** *Website*: https://cyber.nj.gov | jctf{cyberJERSEY}
 | SpecterOps | **Connect with SpecterOps:** *Website*: https://specterops.io/ | jctf{cyberADVERSARY}
 | KnowBe4 | **Connect with KnowBe4:** *Website:* https://www.knowbe4.com/ | jctf{cyberhumanERROR}
+
+## Feedback Challenge
+| Description | Flag
+|:-- | :--
+| On Sunday, the JerseyCTF Feedback Google Form will be released on the Discord #announcements text channel. Fill out this feedback form for a flag in the  confirmation message! | jctf{tH@nks_for_aTTending!}
+
+
