@@ -1,4 +1,4 @@
-# sim-worker's Write-up for sim-worker
+# sirTensor's Write-up for sim-worker
 
 1. run the file in gdb
 ```
