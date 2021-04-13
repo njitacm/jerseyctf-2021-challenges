@@ -5,3 +5,12 @@
 
 ## Solution
 * Use cyberchef `XOR Brute Force`
+
+--- 
+
+## Challenge Message 
+SciXor left an encrypted message at your door. Use logic to crack the code!  
+
+## Challenge Hints
+* °° -> 0
+* ° -> 0
