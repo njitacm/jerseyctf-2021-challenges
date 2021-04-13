@@ -8,11 +8,12 @@
 
 ---
 
-## Sites
+## Sites / Others
 <!-- Where anyone with websites will have the ctf -->
-| name/handle | URL | description 
-| :--- | :--: | ---:
-| | | 
+| name/handle | Description / URl 
+| :--- | :--: 
+| CryptoCat | [Jersey CTF 2021 - Challenge Walkthroughs (Beginner Friendly)](https://www.youtube.com/watch?v=aZyE1tgMGfw)
+| |
 
 ---
 ## Contributor write
