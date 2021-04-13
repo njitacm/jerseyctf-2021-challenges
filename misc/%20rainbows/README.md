@@ -21,3 +21,12 @@ who knew you could encode text as an image? did you open this as a png, or just 
 
 Flag: jctf{from hex?}
 ```
+
+---
+
+## Challenge Message
+While you were flying in the sky back to your superhero headquarters, you’ve stumbled upon a mysterious rainbow! This doesn’t seem like any ordinary rainbow though— you need to take the time and space to figure out the message behind the picture.
+
+## Challenge Hints
+Think URLS to understand %20. Zoom-in and remember hex can represent a multitude of things!
+

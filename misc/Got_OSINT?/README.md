@@ -11,3 +11,14 @@
 * leet (1337)
 * HIBP # of Gab (66,521 is the number of Gab accounts in the breach posted on Have I Been Pwned)
 * 730-379-1337+66521 = jctf{65535}
+
+---
+
+## Challenge Message 
+Supervillain Andres loves open source. Word of mouth says he also likes Mikko’s Brain, LDAP interface, leet, and HIBP # of Gab.
+
+* What does this all add up to? Put the answer in the flag format jctf{INSERT NUMBER}
+* Address of Mikko’s Brain - LDAP interface – leet + HIBP # of Gab = ?
+
+## Challenge Hints
+* Sometimes Google searches lead to numbers!

@@ -16,3 +16,11 @@ the model is from a freely available blender splash screen. https://cloud.blende
 
 flag: jctf{gETfLooR}
 ```
+
+--- 
+
+## Challenge Message 
+Dinosaurs are rampaging through the city and only you can stop them. You managed to get a model of them and find out they are powered by the sun, what could you possibly do with that information? 
+
+## Challenge Hints
+* Trying to get the W, but it flipped. Alphabet be like that tho!
