@@ -20,9 +20,9 @@ Development and Creation of CTF Challenges for JerseyCTF 2021
 ###  Resources / Write-ups / Sponker Flags
 | Directory <!-- --> | Description<!-- This could have been a challenge -->
 | :--: | :--: 
-| [sponker](sponker) | Sponsor and Speaker Flags
+| [sponker](https://github.com/njitacm/ctf-challenges/tree/main/%7C%20sponker) | Sponsor and Speaker Flags
 | [writeups](writeups) | Writeups from participants
-| [resources](resources) | Resources from Tech Talks (i.e. Records, Literature, etc)
+| [resources](https://github.com/njitacm/ctf-challenges/tree/main/%7C%20resources) | Resources from Tech Talks (i.e. Records, Literature, etc)
 
 ---
 ## Interested in Contributing?
