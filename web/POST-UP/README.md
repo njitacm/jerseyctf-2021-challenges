@@ -20,3 +20,13 @@ python3 -c 'import requests; r = requests.post("URL"); print(r.text)'
 ```bash
 curl -X POST URL
 ```
+
+---
+
+## Challenge Message
+Up and at’m! Time to tackle your first mission of the day! Send a request to HQ to receive mission details!
+
+www.jerseyctf.info
+
+## Challenge Hints
+Send the POST
