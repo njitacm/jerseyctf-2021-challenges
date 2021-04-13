@@ -1,6 +1,6 @@
 # ctf-challenges
 
-Development and Creation of CTF Challenges for JerseyCTF 2021
+ Development of Challenges, Write-ups, and Backend (for Challenges) Infrastructure, and some speaker notes for JerseyCTF 2021
 
 * There was 39 challenges in the repo, but 2 were omitted for jctf2021
     * `intro-pwn` + `sql_needles`
@@ -22,8 +22,8 @@ Development and Creation of CTF Challenges for JerseyCTF 2021
 | :--: | :--: 
 | [sponker](https://github.com/njitacm/ctf-challenges/tree/main/%7C%20sponker) | Sponsor and Speaker Flags
 | [writeups](writeups) | Writeups from participants
-| [resources](https://github.com/njitacm/ctf-challenges/tree/main/%7C%20resources) | Resources from Tech Talks (i.e. Records, Literature, etc)
+| [resources](https://github.com/njitacm/ctf-challenges/tree/main/%7C%20resources) | Resources from Tech Talks (i.e. Records, Literature, etc) and Backend Infrastructure for Challenges
 
 ---
 ## Interested in Contributing?
-* Check out [contributing.md](.github/contributing.md) 
+* Check out [contributing.md](.github/contributing.md)
