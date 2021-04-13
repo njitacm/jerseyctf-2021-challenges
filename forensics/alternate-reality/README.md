@@ -17,3 +17,10 @@ cat flag.txt:hidden
 ```
 
 Flag: jctf{FL492 1N 73h S7r34M}
+
+--- 
+
+## Challenge Message 
+# Challenged by **SpecterOps**
+
+It turns out that there are not one, but two disks in the PC. Finding the flag in the previous disk left you confused. Seems like you will have to find the flag in this forensic disk image too!

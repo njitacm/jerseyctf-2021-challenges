@@ -21,3 +21,14 @@ volatility -f memdump.mem imageinfo
 
 
 Flag: jctf{1808}
+
+--- 
+
+## Challenge Message 
+Oh no, we need to find out the PID (process ID) of notepad.exe  in order to save the city for some unknown reason! No questions asked, just do it!
+
+Use the RAM image found at:
+https://drive.google.com/drive/folders/1a7NZ5g3TR1Pn6hxsf68AsSwP-ItqaHl_?usp=sharing
+
+## Challenge Hints
+* Submit the flag in the following format: **jctf{flag}**.
