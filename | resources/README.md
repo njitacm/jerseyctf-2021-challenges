@@ -1,9 +1,16 @@
 # Resources from JCTF
+* Ceremony Slides
 * Backend Web Code
 * Some Speaker Notes
 
+## Ceremony Slides
+<!-- More like Ceremoney -->
+* [JerseyCTF Opening Ceremony](https://docs.google.com/presentation/d/1kF8u1f4Vr4wr1c_JM5Ct8yQSILD22Bx2WwYI49L7sDs/edit#slide=id.p)
+* [JerseyCTF Closing Ceremony](https://docs.google.com/presentation/d/1LInif-KFnxkv8wILIRVDxJxKUUp3cjDsr9roERaeSjY/edit#slide=id.g7a02ec5f50_0_163)
+
 ## Backend Web Code 
-<!-- Written up and developed by AOrps -->
+<!-- Written up and developed by AOrps with help from DigitalOcean's Wonderful Support
+-->
 * All Web Site Server services used Nginx 
 
 ```txt

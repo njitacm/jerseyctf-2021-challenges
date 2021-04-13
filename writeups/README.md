@@ -13,7 +13,7 @@
 | name/handle | Description / URl 
 | :--- | :--: 
 | CryptoCat | [Jersey CTF 2021 - Challenge Walkthroughs (Beginner Friendly)](https://www.youtube.com/watch?v=aZyE1tgMGfw)
-| |
+| TerminalCats | [JerseyCTF - Crypto StegAESaurus](https://terminalcats.com/jerseyctf-crypto-stegaesaurus/)
 
 ---
 ## Contributor write
