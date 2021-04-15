@@ -14,6 +14,7 @@
 | :--- | :--: 
 | CryptoCat | [Jersey CTF 2021 - Challenge Walkthroughs (Beginner Friendly)](https://www.youtube.com/watch?v=aZyE1tgMGfw)
 | TerminalCats | [JerseyCTF - Crypto StegAESaurus](https://terminalcats.com/jerseyctf-crypto-stegaesaurus/)
+| 0x616e797468696e67 | [Closed Creds, Redirector, Alternate Reality](https://github.com/RyanNgCT/JerseyCTF-Writeups)
 
 ---
 ## Contributor write
