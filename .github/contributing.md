@@ -1,6 +1,6 @@
 # Contributing
 
-* Your one stop spot for Contributing! 
+* Your one stop shop for contributing! 
 
 ---
 ## How to Contribute
@@ -28,11 +28,11 @@
 
     | README.md's Categories
     | :--
-    | [crypto/README.md](crypto/README.md)
-    | [forensics/README.md](forensics/README.md)
-    | [misc/README.md](misc/README.md)
-    | [pwn/README.md](pwn/README.md)
-    | [web/README.md](web/README.md)
+    | [crypto/README.md](https://github.com/njitacm/jerseyctf-2021-challenges/tree/main/crypto)
+    | [forensics/README.md](https://github.com/njitacm/jerseyctf-2021-challenges/tree/main/forensics)
+    | [misc/README.md](https://github.com/njitacm/jerseyctf-2021-challenges/tree/main/misc)
+    | [pwn/README.md](https://github.com/njitacm/jerseyctf-2021-challenges/tree/main/pwn)
+    | [web/README.md](https://github.com/njitacm/jerseyctf-2021-challenges/tree/main/web)
 
 ---
 ### Creating a writeup for a challenge
