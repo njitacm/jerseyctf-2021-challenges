@@ -1,4 +1,4 @@
-# ctf-challenges
+# jerseyctf-2021-challenges
 
  Development of Challenges, Write-ups, and Backend (for Challenges) Infrastructure, and some speaker notes for JerseyCTF 2021
 
