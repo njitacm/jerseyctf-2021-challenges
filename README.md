@@ -1,6 +1,8 @@
 # jerseyctf-2021-challenges
 
  Development of Challenges, Write-ups, and Backend (for Challenges) Infrastructure, and some speaker notes for JerseyCTF 2021
+ 
+ <p align="center"><img src="https://user-images.githubusercontent.com/65144990/154736692-e7ba83d1-d537-4687-ba3b-31ab6be86322.png" width="250" height="250" /></>
 
 * There was 39 challenges in the repo, but 2 were omitted for jctf2021
     * `intro-pwn` + `sql_needles`
