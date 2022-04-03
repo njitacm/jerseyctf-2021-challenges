@@ -29,3 +29,12 @@
 ---
 ## Interested in Contributing?
 * Check out [contributing.md](.github/contributing.md)
+ 
+---
+
+## Promotional Poster, Schedule, and T-Shirts
+  
+<p align="center"><img src="https://user-images.githubusercontent.com/65144990/161453512-76e099c3-8c47-4c8f-a26a-15807f03e810.png" width="250" height="360"/></>
+<p align="center"><img src="https://user-images.githubusercontent.com/65144990/161453545-a531fb6d-b7c6-4af7-adb9-e116d2cb1cb2.png" width="250" height="360"/></> 
+<p align="center"><img src="https://user-images.githubusercontent.com/65144990/161453549-535a35ab-a440-4360-b1e3-dc0057ef791a.jpeg" width="250" height="360"/></> 
+<p align="center"><img src="https://user-images.githubusercontent.com/65144990/161453552-ce533fc1-33d9-407c-894b-3d45bd296393.jpeg" width="250" height="360"/></> 
