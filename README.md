@@ -32,6 +32,12 @@
  
 ---
 
+## Additional Resources
+* [2021 Tech Talks](https://www.youtube.com/playlist?list=PLrcTWWy-esnDYt1niwIETam5s-nljoeD9)
+* [Information and Registration Site](https://jerseyctf.com)
+
+---
+
 ## Promotional Poster, Schedule, and T-Shirts
   
 <p align="center"><img src="https://user-images.githubusercontent.com/65144990/161453512-76e099c3-8c47-4c8f-a26a-15807f03e810.png" width="250" height="360"/></>
