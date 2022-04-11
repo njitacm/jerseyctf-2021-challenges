@@ -33,8 +33,9 @@
 ---
 
 ## Additional Resources
-* [2021 Tech Talks](https://www.youtube.com/playlist?list=PLrcTWWy-esnDYt1niwIETam5s-nljoeD9)
+* [Tech Talks](https://www.youtube.com/playlist?list=PLrcTWWy-esnDYt1niwIETam5s-nljoeD9)
 * [Information and Registration Site](https://jerseyctf.com)
+ * [2022 GitHub Repository](https://github.com/njitacm/jerseyctf-2022-challenges)
 
 ---
 
